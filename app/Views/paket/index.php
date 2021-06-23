@@ -26,7 +26,7 @@
                         <td><?= $p['sasaran']; ?></td>
                         <td><?= $p['penerima']; ?></td>
                         <td><?= $p['isi_paket']; ?></td>
-                        <td><?= $p['tanggal_ambil']; ?></td>
+
                         <td>
                             <a href="" class="btn btn-success">Update</a>
                         </td>
