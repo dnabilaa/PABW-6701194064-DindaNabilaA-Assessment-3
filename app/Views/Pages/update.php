@@ -10,11 +10,11 @@
                     <form action="update.php" method="post" enctype="multipart/form-data">
                         <table>
                             <tr>
-                                <td>Isi Paket</td>
+                                <td>Nama Mobil</td>
                                 <td><input type="text" name="isipaket"></td>
                             </tr>
                             <tr>
-                                <td>Tujuan Paket</td>
+                                <td>Tanggal Submit</td>
                                 <td><select name="tujuan">
                                         <option value="kosong">---select----</option>
                             </tr>
@@ -30,10 +30,7 @@
                                 });
                             });
                             </script>
-                            <tr>
-                                <td>Tanggal diterima</td>
-                                <td><input type="text" id="date"></td>
-                            </tr>
+
 
                         </table>
                         <p></p>

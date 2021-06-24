@@ -7,10 +7,10 @@
             <body>
                 <center>
 
-                    <h1>Selamat Datang Di aplikasi penerimaan paket pos Asrama</h1>
+                    <h1>Selamat Datang Di aplikasi Rekomendasi Mobil</h1>
                     <p></p>
                     <div class="text-center">
-                        <img src="/img/asrama.jpg" class="rounded" width="500">
+                        <img src="/img/mobil.jpg" class="rounded" width="500">
 
                 </center>
         </div>

@@ -6,13 +6,12 @@
             <center>
                 <table>
                     <tr>
-                        <td>Isi Paket</td>
-                        <td><input type="text" name="isipaket"></td>
+                        <td>Nama Mobil</td>
+                        <td><input type="text" name="nama mobil"></td>
                     </tr>
                     <tr>
-                        <td>Tujuan Paket</td>
-                        <td><select name="tujuan">
-                                <option value="kosong">---select----</option>
+                        <td>Tanggal submit</td>
+                        <td><input type="text" name="tanggal submit"></td>
                 </table>
                 <p></p>
                 <input type="submit" value="CREATE" />
